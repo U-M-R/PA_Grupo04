@@ -132,4 +132,3 @@ function mostrarTabla($importe,$nmeses){
 </body>
 
 </html>
-<?php "Jaja" ?>
